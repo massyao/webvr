@@ -1,4 +1,4 @@
-# a webVR example based on three.js、control.js、effect.js、pollyfil.js
+# a webVR example based on three.js、VRcontrol.js、VReffect.js、VRpollyfil.js
 
 
 The code makes use of some simple WebGL utilities (js/wglu) and the glMatrix library to reduce
