@@ -6,7 +6,7 @@ complexity of the WebGL code, but neither are necessary for using WebVR.
 
 You can run the sample live at http://amormaid.tk/webvr/webvr.html
 
-WebVR support browser is needed
+WebVR    support     browser is needed
 
 #reference
  - [WebVR Spec](https://mozvr.github.io/webvr-spec/)
