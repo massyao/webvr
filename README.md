@@ -6,12 +6,13 @@ complexity of the WebGL code, but neither are necessary for using WebVR.
 
 You can run the sample live at http://amormaid.tk/webvr/webvr.html
 
+WebVR support browser is needed
 
 #reference
  - [WebVR Spec](https://mozvr.github.io/webvr-spec/)
  - [How to Get WebVR](http://webvr.info/)
  - [three.js](https://threejs.org/)
  - [VREffect.js](https://github.com/mrdoob/three.js/blob/master/examples/js/effects/VREffect.js)
- -[VRontrol.js](https://github.com/mrdoob/three.js/blob/master/examples/js/controls/VRControls.js)
- -[webVRpolyfill](https://github.com/googlevr/webvr-polyfill)
- -[aframe](https://aframe.io/)
+ - [VRontrol.js](https://github.com/mrdoob/three.js/blob/master/examples/js/controls/VRControls.js)
+ - [webVRpolyfill](https://github.com/googlevr/webvr-polyfill)
+ - [aframe](https://aframe.io/)
